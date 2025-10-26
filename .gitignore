@@ -1,0 +1,22 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Docker
+.dockerignore
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# IDE
+.vscode/
+.idea/
+
+# Archivos de backup
+*.bak
+*~
